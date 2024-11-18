@@ -1,0 +1,16 @@
+
+
+.authentication-bg-pattern {
+    background-image: url(../../assets/images/bg-pattern.png);
+}
+.authentication-bg {
+    background-color: #323236;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+@media(max-width:576px){
+    .custom_btn{
+margin-top: 30px !important;
+    }
+}
